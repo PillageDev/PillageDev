@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pillagedev&theme=radical)](https://github.com/pillagedev)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pillagedev)](https://github.com/pillagedev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pillagedev)](https://github.com/pillagedev)
 
