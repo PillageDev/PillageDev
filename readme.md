@@ -2,4 +2,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pillagedev)](https://github.com/pillagedev)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pillagedev&repo=frc-distance-calculator)](https://github.com/pillagedev)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pillagedev&repo=frc-distance-calculator)](https://github.com/pillagedev/frc-calculator)
