@@ -2,4 +2,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pillagedev)](https://github.com/pillagedev)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pillagedev&repo=frc-distance-calculator)](https://github.com/pillagedev/frc-calculator)
+Hey! I am PillageDev! I am interested in Computer Science and AI. I primarily code java, but dabble in Javascript, Html, Css and Python. 
+
+Contact me: Discord | pillage_
